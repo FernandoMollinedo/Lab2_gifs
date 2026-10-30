@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
 plugins: [react()],
-base: '/lab_2gif_master/', 
+base: '/Lab2_gifs/', 
 build: {
 outDir: 'docs', 
 }
